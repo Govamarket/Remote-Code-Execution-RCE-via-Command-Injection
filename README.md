@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🔥 Remote Code Execution (RCE) via Command Injection
+#  Remote Code Execution (RCE) via Command Injection
 
 [![Severity](https://img.shields.io/badge/Severity-Critical-red?style=for-the-badge)](https://nvd.nist.gov/vuln-metrics/cvss)
 [![CVSS](https://img.shields.io/badge/CVSS-9.8-red?style=for-the-badge)](https://nvd.nist.gov/vuln-metrics/cvss)
@@ -11,14 +11,14 @@
 [![Type](https://img.shields.io/badge/Type-Command%20Injection-purple?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-Educational%20Only-green?style=for-the-badge)]()
 
-> ⚠️ **All testing was performed in an isolated, intentionally vulnerable lab environment.**
+>  **All testing was performed in an isolated, intentionally vulnerable lab environment.**
 > **For educational purposes only. Do not attempt on systems you do not own or have explicit permission to test.**
 
 </div>
 
 ---
 
-## 📖 Table of Contents
+##  Table of Contents
 
 - [Summary](#-summary)
 - [Lab Environment](#-lab-environment)
@@ -34,7 +34,7 @@
 
 ---
 
-## 📌 Summary
+##  Summary
 
 This project documents a **Command Injection vulnerability** that leads to **Remote Code Execution (RCE)** in a web application.
 
@@ -53,7 +53,7 @@ The application insecurely passes user-supplied input directly into a system she
 
 ---
 
-## 🚨 Vulnerability Details
+##  Vulnerability Details
 
 ### Root Cause
 
