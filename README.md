@@ -306,15 +306,6 @@ except Exception:
 
 ---
 
-##  Repository Structure
-
-```
-rce-command-injection/
-├── README.md            ← This report
-├── screenshots/         ← Evidence screenshots for each exploitation step
-└── notes/               ← Personal research and learning notes
-```
-
 * Next Steps: Advanced RCE filter bypass · Reverse shells · Privilege escalation · Web exploitation chaining*
 
 </div>
