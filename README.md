@@ -31,7 +31,6 @@
 - [Key Takeaways](#-key-takeaways)
 - [Skills Demonstrated](#-skills-demonstrated)
 - [References](#-references)
-- [Author](#-author)
 
 ---
 
